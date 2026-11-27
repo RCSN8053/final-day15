@@ -1,0 +1,16 @@
+*   d3280eb Merge pull request #1 from RCSN8053/feature/sensor
+|\  
+| * e302ab4 센서 설정 추가
+|/  
+*   e5acde9 속도 1.5로 충돌 해결
+|\  
+| * 2d5f720 속도 2.0으로 변경
+* | f9d0d47 속도 1.5로 변경
+|/  
+*   8cfa3af Merge branch 'main' of https://github.com/RCSN8053/final-day15
+|\  
+| * 1dc6ff1 README 설명 추가
+* | a95d6d5 팀원 목록 추가
+|/  
+* 628aeea 설정 파일 추가
+* 5291ab3 Initial commit
